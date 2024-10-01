@@ -52,6 +52,7 @@ public abstract class Unit : MonoBehaviour,
         InitHandlerFacade();
         HealthRegenerationEnable();
     }
+    
     protected void Update()
     {
     }
